@@ -1,0 +1,7 @@
+{
+  "name": "study-plan-monorepo",
+  "private": true,
+  "scripts": {
+    "vercel-build": "cd study-plan && npm install && npm run build"
+  }
+}
